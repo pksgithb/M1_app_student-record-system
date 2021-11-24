@@ -68,6 +68,65 @@ Beyond this, you could also keep in touch with the students even after they grad
 * # Document Management Service #
 
 * In this service, the admin can add documents such as students marks card, id proofs, syllabus of subjects, payment receipts, certificates and many other documents which are useful for smooth running of academic and financial activities of the institution.
-* # CONCLUSION #
 
-  The results obtained from the experiments and testing ensures that the proposed method is efficient and user-friendly. As compared to existing methods of managing the academic   institutions, this project which yields centralized software makes the work administration and management easier and provides detailed information about the students.
+# 4Ws and 1Hs
+
+# Why:
+
+1. To save time from the traditional ways of taking details
+2. It is fast and convenient
+
+# Where:
+
+1. This can be used in any institutions to take all details of students
+
+
+# Who:
+
+1. It can be used by any school/colleges for the collection of students  
+
+# When:
+
+1. It can be used 24*7 which is the major advantage
+
+# How:
+
+1. administrator of institute, and knows how to perform 
+the actions can do this easily
+
+# SWOT Analysis
+
+# Strengths
+
+1. It is easy, fast and not time-consuming
+2. You need not to take any details through papers
+
+# Weakness
+
+1. A simple error might create a huge loss
+2. Not everyone is educated on how to use this system
+
+# Opportunities
+
+1. The process is simple to learn and work on it
+2. It can be used in schools/colleges. 
+
+# Threats
+
+1. if any unauthorized person rakes the system can take the data away
+
+|ID|Description|Status|
+|:-|:----------|:-----|
+|HLR_1|administrator can search the student details |Implemented|
+|HLR_2|administrator can add student details|Implemented|
+|HLR_3|can modify the details|Implemented|
+
+# LOW level Requirements
+
+|ID|Description|Status|
+|:-|:----------|:-----|
+|LLR_1|Check details|Implemented|
+|LLR_2|add details|Implemented|
+|LLR_3|delete|Implemented|
+
+
