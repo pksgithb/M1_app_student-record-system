@@ -144,3 +144,6 @@ the actions can do this easily
 
 ![behaviral](https://user-images.githubusercontent.com/94304459/143229285-91e18fa4-1cc1-4bbe-b980-c7bb30324146.jpg)
 
+# Structure Diagram of student record system #
+
+![Capture](https://user-images.githubusercontent.com/94304459/143229913-721db330-85c2-41f7-ba14-2ae801011d81.PNG)
