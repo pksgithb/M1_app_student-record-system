@@ -1,13 +1,11 @@
 # M1_app_student-record-system
 
-## Folder Structure
-
-| Folder            | Description                                  |
-| ----------------- | -------------------------------------------- |
-| 1_Requirements    | Described about the requirements and research |
-| 2_Design          | Descibed about the design of Project          |
-| 3_Implementation  | All coding related files                     |
-| 4_TestPlanAndOutput        | Test cases of project                                  |
-| 5_Report        | Complete report of project                   |
-| 6_ImagesAndVideos | Images and Videos related to project         |
-| 7_Other|other files related to project|
+# Folder Structure
+| Folder   |      Description     |  
+|----------|:-------------:|
+| 1_Requirements |  Documents detailing requirements and research |
+| 2_Design |    Documents specifying design  | 
+| 3_Implementation |   All codes and Documentation  |
+| 4_TestPlan |  Documents with test plans |
+| 5_Report |    Documentation of whole project  | 
+| 6_Images |    All the images of this project  |
