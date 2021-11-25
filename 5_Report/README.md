@@ -167,3 +167,5 @@ the actions can do this easily
 |  L_01       |Delete Student                                         |5            |Enter Student ID|Enter Student ID|Scenario based    |
 |  L_02       |Exit                                                          | 6          |exits the window|exits from the window|Boundary based    |
 
+# image
+![Screenshot (184)](https://user-images.githubusercontent.com/94304459/143380698-173facbb-0d54-4f97-9849-02185cc27b1d.png)
