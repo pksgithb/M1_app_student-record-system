@@ -1,8 +1,6 @@
 # TEST PLAN:
 
 ## Table name: High level test plan
-# TEST PLAN:
-
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P**      | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------ |-------------     |----------------|------------------|
